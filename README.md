@@ -38,29 +38,6 @@ An AI-powered personal finance assistant built using **Flask** that helps users 
 - OpenPyXL (Excel reports)
 
 ---
-
-## Project Structure
-
-```AI_finance_assistant/
-│
-├── app.py
-├── models.py
-├── chatbot.py
-├── budget.py
-│
-├── templates/
-│ ├── dashboard.html
-│ ├── login.html
-│ ├── register.html
-│ ├── add_transaction.html
-│ └── reports.html
-│
-├── static/
-│
-├── requirements.txt
-└── SRS.md```
----
-
 ## Functional Modules
 
 ### 1. User Authentication
@@ -104,4 +81,28 @@ Users can download their financial data as:
 - Advanced AI-based financial recommendations  
 - Monthly and weekly spending trend analysis  
 - Mobile application version  
-- Secure password hashing and encryption  
+- Secure password hashing and encryption
+
+## Project Structure
+
+```AI_finance_assistant/
+│
+├── app.py
+├── models.py
+├── chatbot.py
+├── budget.py
+│
+├── templates/
+│ ├── dashboard.html
+│ ├── login.html
+│ ├── register.html
+│ ├── add_transaction.html
+│ └── reports.html
+│
+├── static/
+│
+├── requirements.txt
+└── SRS.md
+---
+
+  
