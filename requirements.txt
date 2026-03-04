@@ -3,3 +3,4 @@ Flask-SQLAlchemy
 reportlab
 pandas
 openpyxl
+gunicorn
