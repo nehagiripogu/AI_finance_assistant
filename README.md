@@ -41,7 +41,7 @@ An AI-powered personal finance assistant built using **Flask** that helps users 
 
 ## Project Structure
 
-AI_finance_assistant
+AI_finance_assistant/
 │
 ├── app.py
 ├── models.py
@@ -53,7 +53,7 @@ AI_finance_assistant
 │ ├── login.html
 │ ├── register.html
 │ ├── add_transaction.html
-│ ├── reports.html
+│ └── reports.html
 │
 ├── static/
 │
