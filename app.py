@@ -19,7 +19,7 @@ with app.app_context():
 
 @app.route('/')
 def home():
-    return redirect("home.html")
+    return redirect('/login')
 
 
 # REGISTER
